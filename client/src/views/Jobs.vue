@@ -1,8 +1,11 @@
 <template>
   <div class>
     Hello Jobs
-    <input type="text" />
-    <input type="text" />
+    <input type="text" placeholder="company" />
+    <input type="text" placeholder="position" />
+    <input type="text" placeholder="wages" />
+    <input type="text" placeholder="description" />
+
     <!-- TODO need to add the @ click function -->
     <button>Find</button>
   </div>
